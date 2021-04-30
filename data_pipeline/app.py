@@ -1,6 +1,5 @@
 import pipeline as pl
 
-
 FILE_NAME = 'techcrunch.csv'
 
 
